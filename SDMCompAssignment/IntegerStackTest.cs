@@ -16,7 +16,7 @@ namespace SDMCompAssignment
         {
             IStackInteger stack = new IntegerStack();
             stack.Push(10);
-            Assert.AreEqual(15, stack.Get()[0]);
+            Assert.AreEqual(10, stack.Get()[0]);
         }
 
         [TestMethod()]
