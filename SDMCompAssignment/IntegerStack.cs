@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SDMCompAssignment
 {
-    class IntegerStack : IStackInteger
+    public class IntegerStack : IStackInteger
     {
         List<int> list = new List<int>();
 
