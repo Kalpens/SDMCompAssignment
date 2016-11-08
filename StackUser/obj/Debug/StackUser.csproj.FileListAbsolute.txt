@@ -1,0 +1,10 @@
+C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\StackUser\bin\Debug\StackUser.exe.config
+C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\StackUser\bin\Debug\StackUser.exe
+C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\StackUser\bin\Debug\StackUser.pdb
+C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\StackUser\bin\Debug\SDMCompAssignment.dll
+C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\StackUser\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\StackUser\bin\Debug\SDMCompAssignment.pdb
+C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\StackUser\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\StackUser\obj\Debug\StackUser.csprojResolveAssemblyReference.cache
+C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\StackUser\obj\Debug\StackUser.exe
+C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\StackUser\obj\Debug\StackUser.pdb
