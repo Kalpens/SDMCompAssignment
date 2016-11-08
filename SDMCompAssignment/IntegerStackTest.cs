@@ -26,7 +26,7 @@ namespace SDMCompAssignment
             stack.Push(11);
             stack.Push(22);
             stack.Push(33);
-            Assert.AreEqual(2, stack.Size());
+            Assert.AreEqual(3, stack.Size());
         }
 
         [TestMethod()]
