@@ -1,6 +1,5 @@
 c:\users\kalpens\documents\visual studio 2015\Projects\SDMCompAssignment\SDMCompAssignment\bin\Debug\SDMCompAssignment.dll
 c:\users\kalpens\documents\visual studio 2015\Projects\SDMCompAssignment\SDMCompAssignment\bin\Debug\SDMCompAssignment.pdb
-c:\users\kalpens\documents\visual studio 2015\Projects\SDMCompAssignment\SDMCompAssignment\obj\Debug\SDMCompAssignment.csprojResolveAssemblyReference.cache
 c:\users\kalpens\documents\visual studio 2015\Projects\SDMCompAssignment\SDMCompAssignment\obj\Debug\SDMCompAssignment.dll
 c:\users\kalpens\documents\visual studio 2015\Projects\SDMCompAssignment\SDMCompAssignment\obj\Debug\SDMCompAssignment.pdb
 C:\Users\Kalpens\Documents\Visual Studio 2015\Projects\SDMCompAssignment\SDMCompAssignment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
