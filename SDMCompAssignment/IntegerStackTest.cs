@@ -22,7 +22,7 @@ namespace SDMCompAssignment
         [TestMethod()]
         public void AssertSize()
         {
-            IStackInteger stack = new IntegerStack();
+            IStakInteger stack = new IntegerStack();
             stack.Push(11);
             stack.Push(22);
             stack.Push(33);
